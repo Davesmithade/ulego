@@ -1,0 +1,48 @@
+.newscontainer{
+    background-image: url('../../assets/beforefooterbg.png');
+    background-size: cover;
+    background-position: center;
+}
+.Newsletter {
+    background-repeat: no-repeat;
+    background-size: contain;
+    background: url(https://ulego.vercel.app/static/media/newsletter.36ebc808e2ce24019d5b.svg);
+    border-radius: 15.4105px;
+    color: #fff;
+    flex-direction: row;
+    height: 350px;
+    margin: 4em;
+    padding: 0 6em;
+}
+.Newsletter, .email {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.email button {
+    background: #02ec87;
+    border: none;
+    border-radius: 10.1622px;
+    color: #fff;
+    height: 47px;
+    width: 201.97px;
+}
+.email {
+    background: #fff;
+    border-radius: 16px;
+    height: 72px;
+    padding: 0 24px;
+    width: 629px;
+}
+.h1 {
+    color: #fff;
+    font-size: 36px;
+    font-weight: 600;
+    height: 108px;
+}
+/* .newsLetter{
+    background-image: url('	https://ulego.vercel.app/static/media/newsletter.36ebc808e2ce24019d5b.svg');
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+} */
